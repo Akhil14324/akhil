@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **akhilvallabhani@gmail.com**
 
+-Fun factory: Python is not a snake...
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x-o5h_pcFiMzqA9aNq3r6lz6uIC_tlPN/view?usp=sharing](https://drive.google.com/file/d/1x-o5h_pcFiMzqA9aNq3r6lz6uIC_tlPN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
